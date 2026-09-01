@@ -20,4 +20,4 @@ dependencies:
     path: ../storage/storage
   user_repository:
     path: ../user_repository
-  web_socket_client: ^0.1.4
+  web_socket_client: ^0.2.1
